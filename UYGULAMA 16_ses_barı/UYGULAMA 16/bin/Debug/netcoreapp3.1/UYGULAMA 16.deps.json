@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UYGULAMA 16/1.0.0": {
+        "runtime": {
+          "UYGULAMA 16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UYGULAMA 16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
